@@ -7,7 +7,7 @@ our projects for software engineering
 		客户：
 				个人
 
->客户:
+*客户:
 1.使用账号和密码登录。
 2.在登陆期间，可以存款，取款，转账，查询余额，交易记录，修改个人信息。
 		
