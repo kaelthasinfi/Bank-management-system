@@ -1,9 +1,9 @@
 # Bank-management-system
 ## our projects for software engineering
 
-系统的用户
-		系统管理员：
-				超级管理员，管理员
+* 系统的用户 *		
+** 系统管理员： **				
+   超级管理员，管理员
 		客户：
 				个人
 
